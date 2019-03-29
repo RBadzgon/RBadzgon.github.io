@@ -2,4 +2,6 @@
 title: "My Website"
 ---
     
-Hello, Website! Welcome to the world. My resume is [here] (files/RyanBadzgon_Resume_1.pdf)
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Hello, Website! Welcome to the world. My resume is [here](files/RyanBadzgon_Resume_1.pdf)
