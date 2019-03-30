@@ -4,4 +4,6 @@ title: "My Website"
     
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="files/RyanHeadshot.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+
 Hello, Website! Welcome to the world. My resume is [here](files/RyanBadzgon_Resume_1.pdf)
