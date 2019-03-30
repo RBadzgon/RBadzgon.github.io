@@ -1,10 +1,8 @@
-name: "my-website"
+name: "Ryan J. Badzgon"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Ryan J. Badzgon"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About"
       href: about.html
 output:
