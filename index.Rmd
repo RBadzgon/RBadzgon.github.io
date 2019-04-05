@@ -1,6 +1,11 @@
+---
+title: "Ryan J. Badzgon"
+---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="files/RyanHeadshot.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+<h5> Project & Program Manager | Continuous Improvement Leader | Production & Process Engineering Professional </h5>
 
-Hello, Website! Welcome to the world. My resume is [here](files/RyanBadzgon_Resume_1.pdf)
+<img src="files/IMG_6055.jpg" align="left" style="width:30%; margin-right: 20px; border:5px solid">
+
+Hello, Website! Welcome to the world. My resume is [here](files/Ryan_J_Badzgon_Resume.pdf)
