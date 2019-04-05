@@ -8,4 +8,8 @@ title: "Ryan J. Badzgon"
 
 <img src="files/IMG_6055.jpg" align="left" style="width:30%; margin-right: 20px; border:5px solid">
 
-Hello, Website! Welcome to the world. My resume is [here](files/Ryan_J_Badzgon_Resume.pdf)
+Hello! I'm Ryan.
+
+I am a Project Management, Process Improvement, and Production Engineering professional currently serving as a Project Manager for EQT Corporation. Haven't heard of EQT?
+
+My resume is [here](files/Ryan_J_Badzgon_Resume.pdf)
