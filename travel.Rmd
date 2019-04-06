@@ -1,0 +1,65 @@
+---
+title: "Travel"
+---
+
+<h3><center>March 2019 - Breckenridge, Colorado</center></h3>
+
+<img src="files/IMG_3320.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Snowboard Run!</center>
+
+<br>
+
+<img src="files/IMG_3300.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Town of Breckenridge</center>
+
+___
+
+<h3><center>February 2019 - Puerto Vallarta, Mexico</center></h3>
+
+<img src="files/IMG_3149.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Yelapa</center>
+
+<br>
+
+<img src="files/IMG_3127.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Waterfall in Yelapa</center>
+
+<br>
+
+<img src="files/IMG_3190.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Vidanta Resort in Puerto Vallarta</center>
+___
+
+<h3><center>December 2018 - Toronto, ON</center></h3>
+
+<img src="files/IMG_3009.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Ice Skating Rink</center>
+
+<br>
+
+<img src="files/IMG_2987.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Toronto Raptors NBA Game</center>
+
+<br>
+
+<img src="files/IMG_3010.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Graffiti Alley, Chinatown Area</center>
+
+___
+
+<h3><center>August 2018 - Lake Tahoe, CA</center></h3>
+
+<img src="files/IMG_2674.jpg" style="width:400px; height=auto;border:5px solid">
+<center>North Lake Tahoe</center>
+
+<br>
+
+<img src="files/IMG_0189.jpg" style="width:400px; height=auto;border:5px solid">
+<center>South Lake Tahoe</center>
+
+<br>
+
+<img src="files/IMG_2679.jpg" style="width:400px; height=auto;border:5px solid">
+<center>Steph and I at the Peak of Mount Tallac</center>
+
+___
