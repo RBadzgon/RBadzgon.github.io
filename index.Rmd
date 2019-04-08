@@ -16,7 +16,7 @@ I am a Project Management, Process Improvement, and Production Engineering profe
 
 I have progressed through various leadership roles with EQT over the past 5 years, and have had the opportunity to successfully lead and direct a number of key projects and programs for the orgainizaton; all while working with some amazing people in the process. Through my experience, I have become highly-passionate about business optimiziation, continuous improvement, and leveraging data analytics to improve operational efficiencies. I earned by Bachelor's degree in Chemical Engineering from the University of Pittsburgh, will be obtaining my PMP in April 2019, and am looking forward to obtaining my MBA in the near future.
 
-You can view my full resume [here](files/Ryan_J_Badzgon_Resume.pdf).
+You can view my full resume [here](resume.html).
 
 Outside of work, I love to travel and explore new places. I also enjoy all-things outdoors including hiking, biking, snowboarding, and playing sports. I love to challenge myself, develop my current skills, and actively learn new skills.  You can learn about some of my trips and check out photos [here](travel.html). The picture to the right shows my girlfriend, Stephanie, and I during our 2019 visit to Puerto Vallarta, Mexico. 
 
