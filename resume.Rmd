@@ -8,7 +8,7 @@ View the PDF version [here](files/Ryan_Badzgon_Resume.pdf).
 
 <h3>Ryan J. Badzgon</h3>
 
-Project Management, Process Improvement, and Production Engineering professional with over 5 years of progressive experience. Successful in leading key strategic and operational projects to execution while evolving through multiple leadership roles. Extensive experience with data analysis and reporting, performance management, budget management, and business planning. Proven success in utilizing Lean Six Sigma principles to optimize production, operations, and logistics, leading to cost savings in the multi-millions of dollars. Earned Bachelor’s in Chemical Engineering, and currently pursuing PMP.
+Project Management, Process Improvement, and Production Engineering professional with over 5 years of progressive experience. Successful in directing cross-functional teams and leading the execution of key strategic and operational projects and programs. Extensive experience with data analysis and reporting, performance management, budget management, and business planning. Proven success in utilizing Lean Six Sigma principles to optimize production, operations, and logistics across multiple sites and states, leading to multi-million-dollar cost savings. Earned Bachelor’s in Chemical Engineering, and currently pursuing PMP.
 
 
 * Project and Program Management
@@ -91,7 +91,7 @@ Project Management, Process Improvement, and Production Engineering professional
 * Smartsheet
 * Tibco Spotfire, Tableau, BI
 * Excel, Macros
-* Microsoft Office Package
+* Microsoft Office Package, Visio
 * Salesforce
 * R, Python
 * Relational Databases
